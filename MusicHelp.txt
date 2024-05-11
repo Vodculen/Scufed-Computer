@@ -1,0 +1,34 @@
+
+Music Notation Key
+
+Trbl = Treble Clef
+Bass = Bass Clef
+n/n = Time Signature
+A, B, C, D, E, F, G = Respected Notes
+# = Sharp
+* = Natrual
+~ = Flat
+R = Rest
+- = Sixteenth Beat
+-- = Eighth Beat
+--- = Quarter Beat
+---- Half Beat
+----- = Whole Beat
+| = Barline
+|[ = Start Repeat Barline
+]| = End Repeat Barline
+|| = End Barline
+< = Crescendo
+> = Decrescendo
+M = Medium
+P = Soft
+F = Loud
+( = Start Tie
+) = End Tie
+{ = Start Slur
+} = End Slur
+^ = Marcato
+, = Staccato
+. = 1 1/2 Times Beat
+
+Trbl 4/4 <MF A--- B--- R----| G#-- E~-- (E*-- B-- G^---) B,----|[C----{G--- C---}]| FF R---- G--- F#---||

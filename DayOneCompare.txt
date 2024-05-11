@@ -1,0 +1,20 @@
+Name: Charles, From: U.S, To: Poland, Time: 2 Weeks, Reason: Family, Payment: 20 Euros.
+Name: Fred, From: Canada, To: France, Time: 1 Month, Reason: School, Payment: 15 Euros.
+Name: Lewis, From: Canada, To: France, Time: 1 Month, Reason: School, Payment: 15 Euros.
+T
+T
+F
+T
+F
+F
+F
+T
+T
+T
+F
+T
+F
+F
+F
+F
+F
